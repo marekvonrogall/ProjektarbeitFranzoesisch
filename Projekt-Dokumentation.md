@@ -47,13 +47,13 @@ In unserem Projekt geht es darum das man ein Quiz erstellen sollten, welches gut
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  30.08     |    Marek, Agachan, Cyril    |      Das Programm kann die datei oder den Text in ein quiz Umwandeln    |     90min       |
-| 5.A  |    06.09   | Marek, Agachan, Cyril      |      Das Program fragt den User um eine Eingabe    |    20min      |
+| 1.A  |  30.08     |    Marek, Agachan, Cyril    |     Das Programm kann die Datei oder den Text in ein Quiz Umwandeln  |     90min       |
+| 5.A  |    06.09   | Marek, Agachan, Cyril      |      Das Programm fragt den User um eine Eingabe    |    20min      |
 | 2.A  |    30.08   | Marek, Agachan, Cyril      |   Das Programm nimmt die Text datei ein     |    45min      |
 | 3.A  |    30.08   | Marek, Agachan, Cyril      |     Das Programm erkennt ob die Engabe des Users falsch ist.      |     45min      |
-| 4.A  |    06.09   | Marek, Agachan, Cyril      |    Das Programm erkennt ob die Engabe des Users richtig ist.     |    90min      |
-| 6.A  |   06.09   |  Marek, Agachan, Cyril     |    Das Programm gibt dem User ein Warnungsfeld falls etwas anderes als buchstaben eingegeben wurden   |     45min       |
-| 7.A  |    6.09   |  Marek, Agachan, Cyril     |    Das Programm erkennt falsche eingaben und fragt nach einer erneuten Eingaben      |    45min      |
+| 4.A  |    06.09   | Marek, Agachan, Cyril      |    Das Programm erkennt ob die Eingabe des Users richtig ist.     |    90min      |
+| 6.A  |   06.09   |  Marek, Agachan, Cyril     |    Das Programm gibt dem User ein Warnungsfeld falls etwas anderes als Buchstaben eingegeben wurden   |     45min       |
+| 7.A  |    6.09   |  Marek, Agachan, Cyril     |    Das Programm erkennt falsche Eingaben und fragt nach einer erneuten Eingaben      |    45min      |
 
 Total: 
 
