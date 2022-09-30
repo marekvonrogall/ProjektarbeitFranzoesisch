@@ -60,15 +60,14 @@ Total:
 
 ## 3 Entscheiden
 
-Ich nehme an das der User ein einfaches aber noch gut assehendes design will, sodass es sich angenehm anfühlt.
+Ich nehme an das der User ein Quiz erstellen will und somit auch fragen Importieren oder schreiben will.
 
-Ich nehme an das der User Zahlen eingibt die entwedder grösser oder kleiner sind und erwarte dass, das Programm diese anzeigt.
+Ich nehme an das der User der das Quiz spielt, das es falsch oder richtig anzeigt, sobald man etwas falsch oder richtig eingegben haben.
 
-Ich nehme an das der User einen Gewinnerscreen haben will, somit er sich belohnt fühlt wenn er es geschafft hat.
+Ich nehme an das der User ein gutes design will, damit es angenehmer zu spielen ist.
 
-Ich denke das der User auch nochmal spielen will und lasse sie entscheiden ob sie nochmals spielen wollen.
+Ich nehme an das der User nocheinmal spielen will und gebe ihnen die Entscheidung nochmals zu spielen.
 
-## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
