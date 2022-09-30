@@ -47,7 +47,7 @@ In unserem Projekt geht es darum das man ein Quiz erstellen sollten, welches gut
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |  30.08     |    Marek, Agachan, Cyril    |      Das Programm kann eine zufällige Zahl zwischen 1 und 100 generieren und diese auch als Lösunsgzahl erkennen.       |     90min       |
-| 2.A  |    30.08   | Marek, Agachan, Cyril      |    Das Programm sagt dem User ob die Eingegebene Zahl kleiner oder grösser ist      |    45min      |
+| 2.A  |    30.08   | Marek, Agachan, Cyril      |   Das Programm nimmt die Text datei ein     |    45min      |
 | 3.A  |    30.08   | Marek, Agachan, Cyril      |     Das designen vom Umfeld des spieles      |     45min      |
 | 4.A  |    06.09   | Marek, Agachan, Cyril      |    Problembehebungen des codes       |    90min      |
 | 5.A  |    06.09   | Marek, Agachan, Cyril      |      Das Program fragt den Spieler um eine Eingabe    |    20min      |
@@ -77,7 +77,7 @@ Ich denke das der User auch nochmal spielen will und lasse sie entscheiden ob si
 | 3.A  |   30.08    |    Cyril Lutziger       |      45min         |      30min             |
 | 4.A  |   06.09    |    Cyril Lutziger       |      45min         |      90min             |
 | 5.A  |   06.09    |    Cyril Lutziger       |      20         |      45min             |
-| 6.A  |   06.09    |    Cyril Lutziger       |      45         |      konnte dies nicht implementieren, hatte immer wieder Probleme             |
+| 6.A  |   06.09    |    Cyril Lutziger       |      45         |           |
 | 7.A  |    6.09   | Cyril Lutziger      |    45      |    90+min      |
 | 8.A  |    6.09   | Cyril Lutziger      |    45      |    90min      |
 
