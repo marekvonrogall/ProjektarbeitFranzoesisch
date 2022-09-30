@@ -54,7 +54,6 @@ In unserem Projekt geht es darum das man ein Quiz erstellen sollten, welches gut
 | 4.A  |    06.09   | Marek, Agachan, Cyril      |    Das Programm erkennt ob die Engabe des Users richtig ist.     |    90min      |
 | 6.A  |   06.09   |  Marek, Agachan, Cyril     |    Das Programm gibt dem User ein Warnungsfeld falls etwas anderes als buchstaben eingegeben wurden   |     45min       |
 | 7.A  |    6.09   |  Marek, Agachan, Cyril     |    Das Programm erkennt falsche eingaben und fragt nach einer erneuten Eingaben      |    45min      |
-| 8.A  |    6.09   |  Marek, Agachan, Cyril     |    Möchten Sie nochmals Spielen? text      |    45min      |
 
 Total: 
 
