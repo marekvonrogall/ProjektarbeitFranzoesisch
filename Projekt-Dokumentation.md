@@ -8,10 +8,10 @@ Cyril Lutziger
 | ----- | ------- | ------------------------------------------------------------ |
 | 25.09 | 0.0.1   | Heute haben wir unser Projekt ausgewählt und angefangen daran zu arbeiten.   |
 | 29.09 | 0.0.1   | Heute haben wir richtig angefangen daran zu arbeiten und sind weit gekommen mit dem Code   |
+| 05.09 | 0.0.1   |                                                      |
 | 24.10 | 0.0.1   |                                                      |
 | 31.10 | 0.0.1   |                                                      |
 | 07.11 | 0.0.1   |                                                      |
-| 3.09 | 0.0.1   | Wir Programmierten das Programm fertig und haben sachen wie:   |
 
 ## 1 Informieren
 Auftrag lesen und bei Fragen Chloé Demenga E-Mail schreiben.
