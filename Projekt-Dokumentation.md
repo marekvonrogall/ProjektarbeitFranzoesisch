@@ -12,7 +12,6 @@ Cyril Lutziger
 | 31.10 | 0.0.1   |                                                      |
 | 07.11 | 0.0.1   |                                                      |
 | 3.09 | 0.0.1   | Wir Programmierten das Programm fertig und haben sachen wie:   |
-| 07.09 | 0.0.1   |                                                      |
 
 ## 1 Informieren
 Auftrag lesen und bei Fragen Chloé Demenga E-Mail schreiben.
