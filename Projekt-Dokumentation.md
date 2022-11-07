@@ -6,12 +6,12 @@ Cyril Lutziger
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 25.09 | 0.0.1   | Heute haben wir unser Projekt ausgewählt und angefangen daran zu arbeiten.   |
-| 29.09 | 0.0.1   | Heute haben wir richtig angefangen daran zu arbeiten und sind weit gekommen mit dem Code   |
-| 05.09 | 0.0.1   |                                                      |
-| 24.10 | 0.0.1   |                                                      |
-| 31.10 | 0.0.1   |                                                      |
-| 07.11 | 0.0.1   |                                                      |
+| 25.09 | 0.0.1   | Uns wurde heute das Projekt vorgestellt. Wir haben unser Projekt ausgewählt und angefangen daran zu arbeiten, und sind recht weit gekommen für die Stunde in der wir arbeiten konnten.|
+| 29.09 | 0.0.1   | Heute haben wir richtig angefangen daran zu arbeiten und sind weit gekommen mit dem Code. Auch haben wir uns heute mit den Userstories auseinandergestellt, und diese auch geschrieben.|
+| 05.09 | 0.0.1   | Wir habben das Programm fast fertig gestellt und haben Frau Demenga, eine e-mail geschrieben, welches um fragen rund um das Programm ging. |
+| 24.10 | 0.0.1   | Heute sind wir mit den grundanforderungen von Frau Demenga fertig geworden, welcches ein bisschen anspruchsvoll war.  |
+| 31.10 | 0.0.1   | Wir sind mit unserem Programm fertig geworden mit allem, was gefordert wurde.|
+| 07.11 | 0.0.1   | |
 
 ## 1 Informieren
 Auftrag lesen und bei Fragen Chloé Demenga E-Mail schreiben.
