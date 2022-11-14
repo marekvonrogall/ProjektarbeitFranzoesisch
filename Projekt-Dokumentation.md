@@ -25,9 +25,9 @@ In unserem Projekt geht es darum das man ein Quiz erstellen sollten, welches gut
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |      muss       |  F  | Als ein User möchte ich das ich eine meine Fragen Importieren oder auch schreiben kann, dazu auch noch die Lösungen. |
-| 2   |      muss       |   F  |   Als ein User möchte ich, dass Programm die Ausgabe falsch und richtig ausgibt, sodass man weiss, ob man es falsch oder richtig hat. |
-| 3  |     muss       |  f  |   Es sollte eine Warnung ausgeben, sobald etwas nicht erkannt wurde. |
-| 4  |      kann       |  Q  |   Es kann ein bequemes Design haben, sodass es visuell gut aussieht. |
+| 2    |      muss       |   F  |   Als ein User möchte ich, dass Programm die Ausgabe falsch und richtig ausgibt, sodass man weiss, ob man es falsch oder richtig hat. |
+| 3    |     muss       |  f  |   Es sollte eine Warnung ausgeben, sobald etwas nicht erkannt wurde. |
+| 4    |      kann       |  Q  |   Es kann ein bequemes Design haben, sodass es visuell gut aussieht. |
 
 
 
