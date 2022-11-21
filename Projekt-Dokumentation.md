@@ -74,14 +74,14 @@ Ich nehme an das der User nocheinmal spielen will und gebe ihnen die Entscheidun
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |   30.08    |   Marek       |     2x 45          |      135min    |
+| 1.A  |   30.08    |   Marek        |     2x 45          |      135min    |
 | 2.A  |   30.08    |    Cyril       |      45min         |      60min     |
-| 3.A  |   30.08    |    Agachan       |      45min         |      30min     |
-| 4.A  |   06.09    |    Agachan       |      45min         |      90min     |
+| 3.A  |   30.08    |    Agachan     |      45min         |      30min     |
+| 4.A  |   06.09    |    Agachan     |      45min         |      90min     |
 | 5.A  |   06.09    |    Marek       |      20            |      45min     |
 | 6.A  |   06.09    |    Marek       |      45            |                |
-| 7.A  |   06.09    |     Cyril       |      45            |    90+min      |
-| 8.A  |   06.09    |     Cyril       |      45            |    90min       |
+| 7.A  |   06.09    |     Cyril      |      45            |    90+min      |
+| 8.A  |   06.09    |     Cyril      |      45            |    90min       |
 
 ## 5 Kontrollieren
 
@@ -89,9 +89,9 @@ Ich nehme an das der User nocheinmal spielen will und gebe ihnen die Entscheidun
 
 | TC-№ | Datum | Resultat | Tester |
 | ----- | -------- | ------ | ------- |
-|   1.1     |  30.08    |  Das System gibt aus ob die Zahl grösser oder kleiner ist          | Cyril Lutziger      |
-|   2.1     |  30.08   |   Das Programm kann sagen ob ddie Zahl grösser oder kleiner ist        | Cyril Lutziger      |
-|   3.1    |  6.09     |   Das Programm gibt einen gewinnerscreen raus und fragt ob man erneut spielen will.       | Cyril Lutziger      |
+|   1.1     |  30.08    |  Das System gibt aus ob die Zahl grösser oder kleiner ist          | Agachan      |
+|   2.1     |  30.08   |   Das Programm kann sagen ob ddie Zahl grösser oder kleiner ist        | Cyril      |
+|   3.1    |  6.09     |   Das Programm gibt einen gewinnerscreen raus und fragt ob man erneut spielen will.       | Marek     |
 
 
 
