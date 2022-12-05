@@ -59,13 +59,26 @@ In unserem Projekt geht es darum das man ein Quiz erstellen sollten, welches gut
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  30.08     |  Marek      |     Das Programm kann die Datei oder den Text in ein Quiz Umwandeln  |     90min       |
-| 2.A  |    06.09   |  Cyril      |      Das Programm fragt den User um eine Eingabe    |    20min      |
-| 3.A  |    30.08   |  Agachan    |   Das Programm nimmt die Text datei ein     |    45min      |
-| 4.A  |    30.08   |  Agachan    |     Das Programm erkennt ob die Engabe des Users falsch ist.      |     45min      |
-| 5.A  |    06.09   |  Marek      |    Das Programm erkennt ob die Eingabe des Users richtig ist.     |    90min      |
-| 6.A  |   06.09   |  Marek     |    Das Programm gibt dem User ein Warnungsfeld falls etwas anderes als Buchstaben eingegeben wurden   |     45min       |
-| 7.A  |    6.09   |  Agachan     |    Das Programm erkennt falsche Eingaben und fragt nach einer erneuten Eingaben      |    45min      |
+| 1.A  |  22.09     |  Marek       |     Das Programm kann die Datei oder den Text in ein Quiz Umwandeln  |     90min       |
+| 2.A  |    29.09   |  Cyril       |      Das Programm fragt den User um eine Eingabe    |    20min      |
+| 3.A  |    29.09   |  Agachan     |   Das Programm nimmt die Text datei ein     |    45min      |
+| 4.A  |    30.09   |  Agachan     |    Das E-Mail schreiben      |     45min      |
+| 5.A  |    17.10   |  Marek       |    Das Programm erkennt ob die Eingabe des Users richtig ist.     |    90min      |
+| 6.A  |   17.10    |  Marek       |    Das Programm gibt dem User ein Warnungsfeld falls etwas anderes als Buchstaben eingegeben wurden   |  45min  |
+| 7.A  |    24.10   |  Agachan     |    Das Programm erkennt falsche Eingaben und fragt nach einer erneuten Eingaben      |    45min      |
+| 7.A  |    24.10   |  Marek     |    Das Programm erkennt falsche Eingaben und fragt nach einer erneuten Eingaben      |    45min      |
+| 7.A  |    31.10   |  Cyril     |    Das Programm erkennt falsche Eingaben und fragt nach einer erneuten Eingaben      |    45min      |
+| 7.A  |    31.10   |  Agachan     |    Das Programm erkennt falsche Eingaben und fragt nach einer erneuten Eingaben      |    45min      |
+| 7.A  |    31.10   |  Marek     |    Das Programm erkennt falsche Eingaben und fragt nach einer erneuten Eingaben      |    45min      |
+| 7.A  |    7.11    |  Cyril     |    Das Programm erkennt falsche Eingaben und fragt nach einer erneuten Eingaben      |    45min      |
+| 7.A  |    7.11    |  Agachan     |    Das Programm erkennt falsche Eingaben und fragt nach einer erneuten Eingaben      |    45min      |
+| 7.A  |    14.11   |  Marek     |    Das Programm erkennt falsche Eingaben und fragt nach einer erneuten Eingaben      |    45min      |
+| 7.A  |    14.11   |  Agachan     |    Das Programm erkennt falsche Eingaben und fragt nach einer erneuten Eingaben      |    45min      |
+| 7.A  |    21.11   |  Marek     |    Das Programm erkennt falsche Eingaben und fragt nach einer erneuten Eingaben      |    45min      |
+| 7.A  |    21.11   |  Cyril     |    Das Programm erkennt falsche Eingaben und fragt nach einer erneuten Eingaben      |    45min      |
+| 7.A  |    28.11   |  Agachan     |    Das Programm erkennt falsche Eingaben und fragt nach einer erneuten Eingaben      |    45min      |
+| 7.A  |    28.11   |  Marek     |    Das Programm erkennt falsche Eingaben und fragt nach einer erneuten Eingaben      |    45min      |
+| 7.A  |    05.12   |  Marek     |    Das Programm erkennt falsche Eingaben und fragt nach einer erneuten Eingaben      |    45min      |
 
 Total: 
 
@@ -84,14 +97,15 @@ Ich nehme an das der User nocheinmal spielen will und gebe ihnen die Entscheidun
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |   30.08    |   Marek        |     2x 45          |      135min    |
+| 1.A  |   30.08    |    Marek       |     2x 45          |      135min    |
+| 1.A  |   30.08    |    Marek       |     2x 45          |      135min    |
 | 2.A  |   30.08    |    Cyril       |      45min         |      60min     |
 | 3.A  |   30.08    |    Agachan     |      45min         |      30min     |
 | 4.A  |   06.09    |    Agachan     |      45min         |      90min     |
 | 5.A  |   06.09    |    Marek       |      20            |      45min     |
 | 6.A  |   06.09    |    Marek       |      45            |     45min      |
-| 7.A  |   06.09    |     Cyril      |      45            |    90+min      |
-| 8.A  |   06.09    |     Cyril      |      45            |    90min       |
+| 7.A  |   06.09    |    Cyril       |      45            |    90+min      |
+| 8.A  |   06.09    |    Cyril       |      45            |    90min       |
 
 ## 5 Kontrollieren
 
