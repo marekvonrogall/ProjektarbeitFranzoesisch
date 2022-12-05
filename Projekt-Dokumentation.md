@@ -33,6 +33,9 @@ In unserem Projekt geht es darum das man ein Quiz erstellen sollten, welches gut
 | 2    |      muss       |   F  |   Als ein User möchte ich, dass Programm die Ausgabe falsch und richtig ausgibt, sodass man weiss, ob man es falsch oder richtig hat. |
 | 3    |     muss       |  f  |   Es sollte eine Warnung ausgeben, sobald etwas nicht erkannt wurde. |
 | 4    |      kann       |  Q  |   Es kann ein bequemes Design haben, sodass es visuell gut aussieht. |
+| 5    |     muss       |  f  |   Als ein User möchte ich, dass ich Quizes erstellen kann und entscheiden kann wo diese gespeichert werden. |
+| 6    |     muss       |  F  |  Als ein User möchte ich, dass das Programm absturzssicher ist, sodass es nie Abstürzt |
+| 7    |     muss       |  Q |   Als ein User möchte ich, dass meine und die Antworten des Programmes verschiedene Farben haben, sodass ich weis ob ich was falsch geschrieben habe. |
 
 
 
