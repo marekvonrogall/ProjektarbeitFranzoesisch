@@ -117,7 +117,7 @@ Ich nehme an das der User nocheinmal spielen will und gebe ihnen die Entscheidun
 |   2.1     |  24.10   |   Das Programm fragt nach den Antwortmöglichkeiten.       | Cyril      |
 |   3.1    |   31.10    |   Das System kann die Datei speichern       | Marek     |
 |   4.1    |   07.11    |   Das System kann die Lösung erkennen und sagen ob es richtig ist      | Cyril     |
-|   4.1    |   21.11    |   Das Programm gibt dem User einen Punkt für die richtifge Antwort      | Agachan     |
+|   4.1    |   21.11    |   Das Programm gibt dem User einen Punkt für die richtige Antwort      | Agachan     |
 |   4.1    |   05.12    |   Das Programm gibt eine Durchschnittsnote aus      | Marek     |
 
 ### 5.2 Exploratives Testen
