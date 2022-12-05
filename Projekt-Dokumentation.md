@@ -113,11 +113,12 @@ Ich nehme an das der User nocheinmal spielen will und gebe ihnen die Entscheidun
 
 | TC-№ | Datum | Resultat | Tester |
 | ----- | -------- | ------ | ------- |
-|   1.1     |  30.08    |  Das System gibt aus ob die Zahl grösser oder kleiner ist          | Agachan      |
-|   2.1     |  30.08   |   Das Programm kann sagen ob ddie Zahl grösser oder kleiner ist        | Cyril      |
-|   3.1    |  6.09     |   Das Programm gibt einen gewinnerscreen raus und fragt ob man erneut spielen will.       | Marek     |
-
-
+|   1.1     |  30.09    |  Das System fragt nach der Datei und kann eine Datei erstellen. | Agachan      |
+|   2.1     |  24.10   |   Das Programm fragt nach den Antwortmöglichkeiten.       | Cyril      |
+|   3.1    |   31.10    |   Das System kann die Datei speichern       | Marek     |
+|   4.1    |   07.11    |   Das System kann die Lösung erkennen und sagen ob es richtig ist      | Cyril     |
+|   4.1    |   21.11    |   Das Programm gibt dem User einen Punkt für die richtifge Antwort      | Agachan     |
+|   4.1    |   05.12    |   Das Programm gibt eine Durchschnittsnote aus      | Marek     |
 
 ### 5.2 Exploratives Testen
 
