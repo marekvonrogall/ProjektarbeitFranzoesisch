@@ -12,6 +12,11 @@ Cyril Lutziger
 | 24.10 | 0.0.1   | Heute sind wir mit den grundanforderungen von Frau Demenga fertig geworden, welcches ein bisschen anspruchsvoll war.  |
 | 31.10 | 0.0.1   | Wir sind mit unserem Programm fertig geworden mit allem, was gefordert wurde.|
 | 07.11 | 0.0.1   | wir haben Heute neue Userstories eingeschrieben, und nach neuen Ideen gesucht welches wir noch in unserem Programm einbauen können|
+| 14.11 | 0.0.1   | |
+| 21.11 | 0.0.1   | |
+| 29.11 | 0.0.1   | |
+| 05.12 | 0.0.1   | |
+
 
 ## 1 Informieren
 Auftrag lesen und bei Fragen Chloé Demenga E-Mail schreiben.
