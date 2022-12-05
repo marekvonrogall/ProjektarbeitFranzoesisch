@@ -124,6 +124,6 @@ Ich nehme an das der User nocheinmal spielen will und gebe ihnen die Entscheidun
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| 1   |  |    Aplikation gestartet        |      |                 |                   |
+| 1   |  |    Aplikation ist gestartet        |  Möchten Sie eine Datei erstellen oder importieren?    |    Möchten Sie eine Datei erstellen oder importieren?               |                   |
 
 ## 6 Auswerten
