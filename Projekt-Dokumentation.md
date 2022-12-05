@@ -53,6 +53,7 @@ In unserem Projekt geht es darum das man ein Quiz erstellen sollten, welches gut
 
 ### 1.4 Diagramme
 
+![Quiz](https://user-images.githubusercontent.com/110893288/205653071-b1770278-b25c-4f58-9051-8beb95879860.png)
 
 
 ## 2 Planen
