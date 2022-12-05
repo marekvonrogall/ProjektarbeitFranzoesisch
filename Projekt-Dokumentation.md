@@ -59,26 +59,27 @@ In unserem Projekt geht es darum das man ein Quiz erstellen sollten, welches gut
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  22.09     |  Marek       |     Das Programm kann die Datei oder den Text in ein Quiz Umwandeln  |     90min       |
-| 2.A  |    29.09   |  Cyril       |      Das Programm fragt den User um eine Eingabe    |    20min      |
-| 3.A  |    29.09   |  Agachan     |   Das Programm nimmt die Text datei ein     |    45min      |
-| 4.A  |    30.09   |  Agachan     |    Das E-Mail schreiben      |     45min      |
-| 5.A  |    17.10   |  Marek       |    Das Programm erkennt ob die Eingabe des Users richtig ist.     |    90min      |
-| 6.A  |   17.10    |  Marek       |    Das Programm gibt dem User ein Warnungsfeld falls etwas anderes als Buchstaben eingegeben wurden   |  45min  |
-| 7.A  |    24.10   |  Agachan     |    Das Programm erkennt falsche Eingaben und fragt nach einer erneuten Eingaben      |    45min      |
-| 7.A  |    24.10   |  Marek     |         |    45min      |
-| 7.A  |    31.10   |  Cyril     |         |    90min      |
-| 7.A  |    31.10   |  Agachan   |         |    45min      |
-| 7.A  |    31.10   |  Marek     |         |    125min     |
-| 7.A  |    7.11    |  Cyril     |         |    45min      |
-| 7.A  |    7.11    |  Agachan   |         |    90min      |
-| 7.A  |    14.11   |  Marek     |         |    45min      |
-| 7.A  |    14.11   |  Agachan   |         |    45min      |
-| 7.A  |    21.11   |  Marek     |         |    90min      |
-| 7.A  |    21.11   |  Cyril     |         |    123min     |
-| 7.A  |    28.11   |  Agachan   |         |    45min      |
-| 7.A  |    28.11   |  Marek     |         |    45min      |
-| 7.A  |    05.12   |  Marek     |         |    90min      |
+| 1.A   |  22.09     |  Marek     |    Das Programm kann die Datei oder den Text in ein Quiz Umwandeln  |     90min       |
+| 2.A   |    29.09   |  Cyril     |    Das Programm fragt den User um eine Eingabe    |    20min      |
+| 3.A   |    29.09   |  Agachan   |    Das Programm nimmt die Text datei ein     |    45min      |
+| 4.A   |    30.09   |  Agachan   |    Das E-Mail schreiben      |     45min      |
+| 5.A   |    17.10   |  Marek     |    as Programm lässt den User die Wörter eintragen    |    90min      |
+| 6.A   |   17.10    |  Marek     |    Das Programm gibt dem User ein Warnungsfeld falls etwas anderes als Buchstaben eingegeben wurden   |  45min  |
+| 7.A   |    24.10   |  Agachan   |    Das Programm erkennt falsche Eingaben und fragt nach einer erneuten Eingaben      |    45min      |
+| 8.A   |    24.10   |  Marek     |    Das Programm lässt den User die Lösungswörter schreiben      |
+| 9.A   |    31.10   |  Cyril     |    Das Programm kann sehen, ob es eine Datei mit dem selbem name gibt     |    90min      |
+| 10.A   |    31.10   |  Agachan   |    Das Programm kann dem User mehrere Auswahlmöglichkeiten hinzufügen lassen     |    45min      |
+| 11.A   |    31.10   |  Marek     |    Das Programm lässt den User eine weitere Aufgabe hinzufügen     |    125min     |
+| 12.A  |    7.11    |  Cyril     |    Das Programm erkennt ob es die angegebene Datei existiert     |    45min      |
+| 13.A  |    7.11    |  Agachan   |    Das Programm erkennt ob die Eingabe des Users richtig ist.    |    90min      |
+| 14.A  |    14.11   |  Marek     |    Das Programm kann einen Ungültigen Datenpfad erkennen     |    45min     |    45min      |
+| 15.A  |    14.11   |  Agachan   |    Das Programm gibt den Punktestand des Users aus     |    45min      |
+| 16.A  |    21.11   |  Marek     |    Problembehandlungen des Codes     |    90min      |
+| 17.A  |    21.11   |  Cyril     |    Das Programm rechnet die Punkte zusammen    |    30min     |
+| 18.A  |    28.11   |  Agachan   |    Das Programm kann sagen wieviel Punkte der User erreicht hat      |    45min      |
+| 19.A  |    28.11   |  Marek     |    Das Programm gibt die Durchschnittsnote des Quizes an       |    45min      |
+| 20.A  |    05.12   |  Marek     |    Problembehebungen + Cleanup des Codes           |    30min      |
+| 20.A  |    05.12   |  Agachan     |    Problembehebungen + Cleanup des Codes           |    30min      |
 
 Total: 
 
