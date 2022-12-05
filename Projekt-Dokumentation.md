@@ -6,16 +6,16 @@ Cyril Lutziger
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 25.09 | 0.0.1   | Uns wurde heute das Projekt vorgestellt. Wir haben unser Projekt ausgewählt und angefangen daran zu arbeiten, und sind recht weit gekommen für die Stunde in der wir arbeiten konnten.|
-| 29.09 | 0.0.1   | Heute haben wir richtig angefangen daran zu arbeiten und sind weit gekommen mit dem Code. Auch haben wir uns heute mit den Userstories auseinandergestellt, und diese auch geschrieben.|
-| 05.09 | 0.0.1   | Wir habben das Programm fast fertig gestellt und haben Frau Demenga, eine e-mail geschrieben, welches um fragen rund um das Programm ging. |
-| 24.10 | 0.0.1   | Heute sind wir mit den grundanforderungen von Frau Demenga fertig geworden, welcches ein bisschen anspruchsvoll war.  |
-| 31.10 | 0.0.1   | Wir sind mit unserem Programm fertig geworden mit allem, was gefordert wurde.|
+| 25.09 | 0.0.1   | Uns wurde heute das Projekt vorgestellt. Wir haben unser Projekt ausgewählt und angefangen es zu planen, und haben mit den PAP angefangen.|
+| 29.09 | 0.0.1   | Heute haben wir richtig angefangen daran zu arbeiten und sind weit gekommen mit dem Code. Wir sind heute mit den Userstories fertig geworden.|
+| 05.09 | 0.0.1   | Heute haben wir Frau Demenga eine E-Mail geschrieben und gefragt, ob die Userstories die Anforderungen erfüllt und Userstories ergänzt. |
+| 24.10 | 0.0.1   | Heute haben wir die Grundlagen unseres Projekts programmiert.|
+| 31.10 | 0.0.1   | Heute haben wir unseren Code verschönert und in einzelne Funktionen eingebaut.|
 | 07.11 | 0.0.1   | Wir haben Heute neue Userstories eingeschrieben, und nach neuen Ideen gesucht welches wir noch in unserem Programm einbauen können|
-| 14.11 | 0.0.1   | Wir haben heute unser Programm nochmals angeschaut und ein bisschen Unnötigen Code, sowie den Code gekürzt, somit es für uns übersichtlicher ist.|
+| 14.11 | 0.0.1   | Wir haben heute unseren nochmals angeschaut und haben unnötigen Codes entfernt , sowie den Code gekürzt, damit wir es übersichtlicher haben.|
 | 21.11 | 0.0.1   | Heute haben wir nochmals verschiedene Userstories geschrieben und |
-| 29.11 | 0.0.1   | |
-| 05.12 | 0.0.1   | |
+| 29.11 | 0.0.1   |Wir sind heute mit unserem Programm fertig geworden. |
+| 05.12 | 0.0.1   |Wir sind heute mit unserem Projektdokumentation fertig geworden.|
 
 
 ## 1 Informieren
