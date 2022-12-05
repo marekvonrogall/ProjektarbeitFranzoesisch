@@ -67,18 +67,18 @@ In unserem Projekt geht es darum das man ein Quiz erstellen sollten, welches gut
 | 6.A  |   17.10    |  Marek       |    Das Programm gibt dem User ein Warnungsfeld falls etwas anderes als Buchstaben eingegeben wurden   |  45min  |
 | 7.A  |    24.10   |  Agachan     |    Das Programm erkennt falsche Eingaben und fragt nach einer erneuten Eingaben      |    45min      |
 | 7.A  |    24.10   |  Marek     |         |    45min      |
-| 7.A  |    31.10   |  Cyril     |         |    45min      |
+| 7.A  |    31.10   |  Cyril     |         |    90min      |
 | 7.A  |    31.10   |  Agachan   |         |    45min      |
-| 7.A  |    31.10   |  Marek     |         |    45min      |
+| 7.A  |    31.10   |  Marek     |         |    125min     |
 | 7.A  |    7.11    |  Cyril     |         |    45min      |
-| 7.A  |    7.11    |  Agachan   |         |    45min      |
+| 7.A  |    7.11    |  Agachan   |         |    90min      |
 | 7.A  |    14.11   |  Marek     |         |    45min      |
 | 7.A  |    14.11   |  Agachan   |         |    45min      |
-| 7.A  |    21.11   |  Marek     |         |    45min      |
-| 7.A  |    21.11   |  Cyril     |         |    45min      |
+| 7.A  |    21.11   |  Marek     |         |    90min      |
+| 7.A  |    21.11   |  Cyril     |         |    123min     |
 | 7.A  |    28.11   |  Agachan   |         |    45min      |
 | 7.A  |    28.11   |  Marek     |         |    45min      |
-| 7.A  |    05.12   |  Marek     |         |    45min      |
+| 7.A  |    05.12   |  Marek     |         |    90min      |
 
 Total: 
 
