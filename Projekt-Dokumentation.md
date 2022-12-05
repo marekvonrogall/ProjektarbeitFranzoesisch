@@ -13,7 +13,7 @@ Cyril Lutziger
 | 31.10 | 0.0.1   | Heute haben wir unseren Code verschönert und in einzelne Funktionen eingebaut.|
 | 07.11 | 0.0.1   | Wir haben Heute neue Userstories eingeschrieben, und nach neuen Ideen gesucht welches wir noch in unserem Programm einbauen können|
 | 14.11 | 0.0.1   | Wir haben heute unseren nochmals angeschaut und haben unnötigen Codes entfernt , sowie den Code gekürzt, damit wir es übersichtlicher haben.|
-| 21.11 | 0.0.1   | Heute haben wir nochmals verschiedene Userstories geschrieben und |
+| 21.11 | 0.0.1   | Heute haben wir nochmals verschiedene Userstories geschrieben und umgesetzt|
 | 29.11 | 0.0.1   |Wir sind heute mit unserem Programm fertig geworden. |
 | 05.12 | 0.0.1   |Wir sind heute mit unserem Projektdokumentation fertig geworden.|
 
