@@ -7,7 +7,7 @@ Cyril Lutziger
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 22.09 | 0.0.1   | Uns wurde heute das Projekt vorgestellt. Wir haben unser Projekt ausgewählt und angefangen es zu planen, und haben mit den PAP angefangen.|
-| 29.09 | 0.0.1   | Heute haben wir richtig angefangen daran zu arbeiten und sind weit gekommen mit dem Code. Wir sind heute mit den Userstories fertig geworden.|
+| 29.09 | 0.0.1   | Heute haben wir richtig angefangen daran zu arbeiten und sind weit gekommen mit dem Code. Wir sind heute mit einigen von den Userstories fertig geworden.|
 | 30.09 | 0.0.1   | Heute haben wir Frau Demenga eine E-Mail geschrieben und gefragt, ob die Userstories die Anforderungen erfüllt und Userstories ergänzt. |
 | 17.10 | 0.0.1   | Heute haben wir die Grundlagen unseres Projekts programmiert.|
 | 24.10 | 0.0.1   | Heute haben wir unseren Code verschönert und in einzelne Funktionen eingebaut.|
