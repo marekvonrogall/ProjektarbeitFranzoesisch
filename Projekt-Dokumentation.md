@@ -108,6 +108,6 @@ Ich nehme an das der User nocheinmal spielen will und gebe ihnen die Entscheidun
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| 1   |  |    Aplikation gestartet        |   3,5, -4 oder buchstaben      |  Programm stürzt ab oder eine fehler anzeige                 |      Das Programm bittet um eine erneute Eingabe.                |
+| 1   |  |    Aplikation gestartet        |      |                 |                   |
 
 ## 6 Auswerten
