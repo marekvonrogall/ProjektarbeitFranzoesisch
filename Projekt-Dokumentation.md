@@ -2,7 +2,7 @@
 
 # Projekt-Dokumentation
 
-Cyril Lutziger
+Cyril Lutziger, Agachan Atputharasa, Marek von Rogall
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
