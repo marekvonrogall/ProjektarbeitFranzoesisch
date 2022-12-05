@@ -98,15 +98,27 @@ Ich nehme an das der User nocheinmal spielen will und gebe ihnen die Entscheidun
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |   30.08    |    Marek       |     2x 45          |      135min    |
-| 1.A  |   30.08    |    Marek       |     2x 45          |      135min    |
-| 2.A  |   30.08    |    Cyril       |      45min         |      60min     |
-| 3.A  |   30.08    |    Agachan     |      45min         |      30min     |
-| 4.A  |   06.09    |    Agachan     |      45min         |      90min     |
-| 5.A  |   06.09    |    Marek       |      20            |      45min     |
-| 6.A  |   06.09    |    Marek       |      45            |     45min      |
-| 7.A  |   06.09    |    Cyril       |      45            |    90+min      |
-| 8.A  |   06.09    |    Cyril       |      45            |    90min       |
+| 1.A   |  22.09     |  Marek     |    |     90min       |
+| 2.A   |    29.09   |  Cyril     |      |    20min      |
+| 3.A   |    29.09   |  Agachan   |       |    45min      |
+| 4.A   |    30.09   |  Agachan   |       |     45min      |
+| 5.A   |    17.10   |  Marek     |     |    90min      |
+| 6.A   |   17.10    |  Marek     |    |  45min  |
+| 7.A   |    24.10   |  Agachan   |        |    45min      |
+| 8.A   |    24.10   |  Marek     |       |
+| 9.A   |    31.10   |  Cyril     |       |    90min      |
+| 10.A   |    31.10   |  Agachan   |      |    45min      |
+| 11.A   |    31.10   |  Marek     |       |    125min     |
+| 12.A  |    7.11    |  Cyril     |        |    45min      |
+| 13.A  |    7.11    |  Agachan   |     |    90min      |
+| 14.A  |    14.11   |  Marek     |     |    45min     |    45min      |
+| 15.A  |    14.11   |  Agachan   |        |    45min      |
+| 16.A  |    21.11   |  Marek     |     |    90min      |
+| 17.A  |    21.11   |  Cyril     |       |    30min     |
+| 18.A  |    28.11   |  Agachan   |      |    45min      |
+| 19.A  |    28.11   |  Marek     |        |    45min      |
+| 20.A  |    05.12   |  Marek     |          |    30min      |
+| 20.A  |    05.12   |  Agachan     |          |    30min      |
 
 ## 5 Kontrollieren
 
