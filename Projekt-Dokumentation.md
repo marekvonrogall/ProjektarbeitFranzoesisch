@@ -6,17 +6,17 @@ Cyril Lutziger
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 25.09 | 0.0.1   | Uns wurde heute das Projekt vorgestellt. Wir haben unser Projekt ausgewählt und angefangen es zu planen, und haben mit den PAP angefangen.|
+| 22.09 | 0.0.1   | Uns wurde heute das Projekt vorgestellt. Wir haben unser Projekt ausgewählt und angefangen es zu planen, und haben mit den PAP angefangen.|
 | 29.09 | 0.0.1   | Heute haben wir richtig angefangen daran zu arbeiten und sind weit gekommen mit dem Code. Wir sind heute mit den Userstories fertig geworden.|
-| 05.09 | 0.0.1   | Heute haben wir Frau Demenga eine E-Mail geschrieben und gefragt, ob die Userstories die Anforderungen erfüllt und Userstories ergänzt. |
-| 24.10 | 0.0.1   | Heute haben wir die Grundlagen unseres Projekts programmiert.|
-| 31.10 | 0.0.1   | Heute haben wir unseren Code verschönert und in einzelne Funktionen eingebaut.|
-| 07.11 | 0.0.1   | Wir haben Heute neue Userstories eingeschrieben, und nach neuen Ideen gesucht welches wir noch in unserem Programm einbauen können|
-| 14.11 | 0.0.1   | Wir haben heute unseren nochmals angeschaut und haben unnötigen Codes entfernt , sowie den Code gekürzt, damit wir es übersichtlicher haben.|
-| 21.11 | 0.0.1   | Heute haben wir nochmals verschiedene Userstories geschrieben und umgesetzt|
-| 29.11 | 0.0.1   |Wir sind heute mit unserem Programm fertig geworden. |
-| 05.12 | 0.0.1   |Wir sind heute mit unserem Projektdokumentation fertig geworden.|
-
+| 30.09 | 0.0.1   | Heute haben wir Frau Demenga eine E-Mail geschrieben und gefragt, ob die Userstories die Anforderungen erfüllt und Userstories ergänzt. |
+| 17.10 | 0.0.1   | Heute haben wir die Grundlagen unseres Projekts programmiert.|
+| 24.10 | 0.0.1   | Heute haben wir unseren Code verschönert und in einzelne Funktionen eingebaut.|
+| 31.10 | 0.0.1   | Wir haben Heute neue Userstories eingeschrieben, und nach neuen Ideen gesucht welches wir noch in unserem Programm einbauen können|
+| 7.11 | 0.0.1   | Wir haben heute unseren nochmals angeschaut und haben unnötigen Codes entfernt , sowie den Code gekürzt, damit wir es übersichtlicher haben.|
+| 14.11 | 0.0.1   | Heute haben wir nochmals verschiedene Userstories geschrieben und umgesetzt|
+| 21.11 | 0.0.1   |Wir sind heute mit unserem Programm fertig geworden. |
+| 28.11 | 0.0.1   |Wir sind heute mit unserem Projektdokumentation fertig geworden.|
+| 05.12 | 0.0.1   |   |
 
 ## 1 Informieren
 Auftrag lesen und bei Fragen Chloé Demenga E-Mail schreiben.
