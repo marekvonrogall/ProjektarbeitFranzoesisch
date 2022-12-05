@@ -137,11 +137,11 @@ Ich nehme an das der User nocheinmal spielen will und gebe ihnen die Entscheidun
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| 1   |  |    Aplikation ist gestartet        |  Möchten Sie eine Datei erstellen oder importieren?    |    Möchten Sie eine Datei erstellen oder importieren?               |                   |
-| 2   |  |    Aufgabentyp MC/SC     |  Speichere Aufgabentyp in Quizdatei   |      Speichert die Quizdatei        |
-| 3   |  |    Fragenstellungen   |  Speichere Fragenstellungen in Quizdatei   |      Speichere Fragenstellungen in Quizdatei       |
-| 4   |  |    Antwort des Quizes   |  Falsch/Richtig  |      Falsch/Richtig      |
-| 5   |  |    Mögliche Punkte  |  Erreichte  Punkte + Note |      Erreichte  Punkte + Note      |
+| 1   | Aplikation ist gestartet |           |  Möchten Sie eine Datei erstellen oder importieren? [I/E]   |    Möchten Sie eine Datei erstellen oder importieren? [I/E]              | 
+| 2   |Möchten Sie eine Datei erstellen oder importieren? [I/E]| E  |  Dateispeicherort:  |      Dateispeicherort:        |
+| 3   |Dateispeicherort: | Pfad hier schreiben + Enter | Path is valid   |      Path is valid      |
+| 4   |Path is valid | Enter  | Aufgabe 1: Typ auswählen: Muliplechoice [MC] / Einzelauswahl [SC] |  Aufgabe 1: Typ auswählen: Muliplechoice [MC] / Einzelauswahl [SC]         |
+| 5   |   Aufgabe 1: Typ auswählen: Muliplechoice [MC] / Einzelauswahl [SC]| SC |  Aufgabe 1: Frage eingeben: |      Aufgabe 1: Frage eingeben:     |
 
 
 ## 6 Auswerten
