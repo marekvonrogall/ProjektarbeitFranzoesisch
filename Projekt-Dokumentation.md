@@ -35,6 +35,7 @@ In unserem Projekt geht es darum das man ein Quiz erstellen sollten, welches gut
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
+| 1.1  | Das Programm ist gestartet und ich kann auswählen obman eine Datei Importiert oder eine erstellen möchte |Datei Importieren|Den Dateipfad eingeben|
 | 1.1  | Das Programm ist gestartet und ich kann meine Fragen und Antworten importieren. |  Baum / arbre      | richtig / falsch     |
 | 2.1  | Das Programm ist gestartet und sagt mir, ob meine Eingabe richtig oder falsch ist.  |  Baum / arbre      |  richtig / falsch   |
 | 2.2  | Ein richtig/falsch Schrift | arbre |   ihre antwort ist richtig|
