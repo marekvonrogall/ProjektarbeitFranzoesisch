@@ -88,7 +88,7 @@ Ich nehme an das der User nocheinmal spielen will und gebe ihnen die Entscheidun
 | 3.A  |   30.08    |    Agachan     |      45min         |      30min     |
 | 4.A  |   06.09    |    Agachan     |      45min         |      90min     |
 | 5.A  |   06.09    |    Marek       |      20            |      45min     |
-| 6.A  |   06.09    |    Marek       |      45            |                |
+| 6.A  |   06.09    |    Marek       |      45            |     45min      |
 | 7.A  |   06.09    |     Cyril      |      45            |    90+min      |
 | 8.A  |   06.09    |     Cyril      |      45            |    90min       |
 
