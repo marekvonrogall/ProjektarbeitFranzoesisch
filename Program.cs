@@ -25,7 +25,6 @@ namespace FranzVerbessert
                     string[] drive = path.Split(':');
                     DriveInfo myDrive = new DriveInfo(drive[0]);
 
-                    // Check if the drive is ready
                     if (myDrive.IsReady) { }
                     else
                     {
